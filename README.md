@@ -8,3 +8,8 @@ Crowbox is a customized, Kali  Linux distribution with many hacking tools pre-in
   - neofetch
   - duf
 - Add common tools
+  - antsword
+  - Behinder
+  - Godzilla
+  - Sliver
+  - Stowaway
